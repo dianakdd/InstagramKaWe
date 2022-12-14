@@ -32,7 +32,7 @@
 
                 <!-- Logo -->
                 <a href="{{ url('/') }}" class="navbar-brand">
-                    <img src="{{asset('img/cleanlogo.png')}}" alt="InstaClone Logo" >
+                    <img src="{{asset('img/cleanlogo2.png')}}" alt="InstaClone Logo" >
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar5">
                     <span class="navbar-toggler-icon"></span>
