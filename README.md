@@ -1,5 +1,5 @@
 # InstagramKaWe
-
+![logo]
 ## Hal - hal yang harus dilakukan
 1. Silahkan clone project dengan perintah `git clone https://github.com/dianakdd/InstagramKaWe.git`
 2. Install composer dengan perintah `composer install`
